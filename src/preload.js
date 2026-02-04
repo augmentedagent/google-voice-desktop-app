@@ -13,3 +13,4 @@
     const {notificationShim} = require('./utils/notificationShim');
     notificationShim(appPath);
 })();
+require('./image-paste.js');
